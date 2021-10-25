@@ -1,0 +1,39 @@
+body {
+  background-color: #282a36;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  
+}
+hr {
+  width: 5%;
+  border-style: none none dotted;
+  border-width: 5px;
+  color: white;
+}
+h1 {
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
+}
+img {
+  border-radius: 70%;
+width: 200px;
+height: 210px;
+object-fit: cover;
+object-position: 100% 0;
+border: 5px solid white;
+}
+a{
+  color: white;
+
+}
+a:hover {
+  color: green;
+}
+.header:hover{
+  color: pink;
+}
+img:hover{
+  border-color: green;
+}
